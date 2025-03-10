@@ -92,17 +92,15 @@ netlify deploy
 
 ## 📸 Screenshots (Optional)
 _Add screenshots of your app here_
-![App Screenshot](public/images/register.png)
 
-![App Screenshot](public/images/login.png)
+| Register | Login | To-Do List (Dark Mode) |
+|----------|-------|-----------------------|
+| ![Register](public/images/register.png) | ![Login](public/images/login.png) | ![Dark Mode](public/images/todolist_dark.png) |
 
-![App Screenshot](public/images/todolist_dark.png)
+| To-Do List (Light Mode) | Firebase Auth | Firestore |
+|-------------------------|--------------|-----------|
+| ![Light Mode](public/images/todolist_light.png) | ![Firebase Auth](public/images/firebase_auth.png) | ![Firestore](public/images/firestore.png) |
 
-![App Screenshot](public/images/todolist_light.png)
-
-![App Screenshot](public/images/firebase_auth.png)
-
-![App Screenshot](public/images/firestore.png)
 
 
 
