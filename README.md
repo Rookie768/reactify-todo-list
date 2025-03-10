@@ -31,7 +31,7 @@ https://reactify-todo-list.vercel.app/
 - Optimized for both **mobile** and **desktop** users
 - Proper loading states and error handling
 
-### 🌟 Bonus Features (Optional but Recommended)
+### 🌟 Bonus Features 
 - Dark Mode toggle
 
 
