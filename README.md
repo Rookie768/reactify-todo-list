@@ -30,8 +30,7 @@ A fully responsive To-Do Application built with **ReactJS**, using **Firebase** 
 
 ### 🌟 Bonus Features (Optional but Recommended)
 - Dark Mode toggle
-- Drag and drop to reorder tasks
-- Add a **due date** field for tasks
+
 
 ## 🛠 Tech Stack
 - **Frontend:** ReactJS
