@@ -92,6 +92,8 @@ netlify deploy
 
 ## 📸 Screenshots (Optional)
 _Add screenshots of your app here_
+![App Screenshot](public/images/register.png)
+
 
 
 
