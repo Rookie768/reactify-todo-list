@@ -41,7 +41,7 @@ function App() {
       } else {
         await loginWithEmail(email, password);
       }
-      // Clear form
+      
       setEmail('');
       setPassword('');
       setName('');
