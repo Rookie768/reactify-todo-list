@@ -94,6 +94,17 @@ netlify deploy
 _Add screenshots of your app here_
 ![App Screenshot](public/images/register.png)
 
+![App Screenshot](public/images/login.png)
+
+![App Screenshot](public/images/todolist_dark.png)
+
+![App Screenshot](public/images/todolist_light.png)
+
+![App Screenshot](public/images/firebase_auth.png)
+
+![App Screenshot](public/images/firestore.png)
+
+
 
 
 
