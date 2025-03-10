@@ -93,8 +93,8 @@ netlify deploy
 
 
 
-## 📸 Screenshots (Optional)
-_Add screenshots of your app here_
+## 📸 Screenshots 
+
 
 | Register | Login | To-Do List (Dark Mode) |
 |----------|-------|-----------------------|
