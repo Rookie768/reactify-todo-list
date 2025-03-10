@@ -69,7 +69,7 @@ REACT_APP_FIREBASE_APP_ID=your-app-id
 
 ### 4️⃣ Run the App
 ```sh
-npm start
+npm run start
 ```
 
 ## 🚀 Deployment
