@@ -89,22 +89,12 @@ vercel
 netlify deploy
 ```
 
-## 🎯 Submission Guidelines
-- Share your **GitHub repository** link.
-- Provide a **live demo** link (Firebase Hosting/Vercel/Netlify).
+
 
 ## 📸 Screenshots (Optional)
 _Add screenshots of your app here_
 
-## 💡 Future Enhancements
-- Task categories & priorities
-- Notifications/reminders
-- Offline support
 
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
 
----
 
-Feel free to modify and improve the README based on your project’s specific details! 🚀
 
