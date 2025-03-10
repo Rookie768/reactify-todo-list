@@ -10,9 +10,7 @@ const store = configureStore({
   middleware: (getDefaultMiddleware) =>
     getDefaultMiddleware({
       serializableCheck: {
-        // Ignore these fields in the state
         ignoredPaths: ['auth.user', 'todos.todos'],
-        // Ignore these action types
         ignoredActions: ['auth/setUser', 'auth/clearUser', 'todos/setTodos']
       }
     })
